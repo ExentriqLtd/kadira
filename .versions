@@ -31,7 +31,7 @@ local-test:lmachens:kadira@2.30.8
 localstorage@1.2.0
 logging@1.1.20
 meteor@1.9.0
-meteorhacks:meteorx@1.4.1
+lamhieu:meteorx@2.0.1
 minimongo@1.4.4
 modern-browsers@0.1.2
 modules@0.12.2
